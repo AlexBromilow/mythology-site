@@ -31,3 +31,5 @@ sanity/*.tsbuildinfo
 
 # Dotenv and similar local-only files
 sanity/*.local
+
+*storybook.log

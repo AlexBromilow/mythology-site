@@ -31,3 +31,4 @@ export const overrides = [
         },
     },
 ];
+export const extends = ['plugin:storybook/recommended'];
